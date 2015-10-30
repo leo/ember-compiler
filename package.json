@@ -1,0 +1,22 @@
+{
+  "name": "ember-compiler",
+  "version": "2.1.0",
+  "description": "The npm module for Ember.js' template compiler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo/ember-compiler.git"
+  },
+  "keywords": [
+    "ember",
+    "template",
+    "compiler",
+    "handlebars"
+  ],
+  "author": "Leonard Lamprecht <lamprechtleonard@gmail.com> (http://leo.im)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo/ember-compiler/issues"
+  },
+  "homepage": "https://github.com/leo/ember-compiler#readme"
+}
