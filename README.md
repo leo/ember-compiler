@@ -1,3 +1,7 @@
+You shouldn't use this. Try [Ember CLI](http://www.ember-cli.com) instead.
+
+---
+
 # Huh?
 
 Before Ember 1.10, developers who wanted to compile their templates on the server-side, had to use a package called "ember-template-compiler". When the new release came out, the guys behind Ember thankfully decided to create a single file for both the compilation on the client- and on the server-side.
